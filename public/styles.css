@@ -78,6 +78,7 @@ body {
 		padding-top: 1.75em;
 		text-align: center;
 		color: rgb(132,132,132);
+		line-height: 1.4;
 	}
 
 	@media screen and (min-width: 38em) {
