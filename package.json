@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/hondocode/how-to-properly-log-an-issue/issues"
   },
-  "homepage": "https://github.com/hondocode/how-to-properly-log-an-issue#readme"
+  "homepage": "https://github.com/hondocode/how-to-properly-log-an-issue#readme",
+  "dependencies": {
+    "tailwindcss": "^2.2.7"
+  }
 }
