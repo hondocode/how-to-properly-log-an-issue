@@ -1,0 +1,22 @@
+{
+  "name": "how-to-properly-log-an-issue",
+  "version": "1.0.0",
+  "description": "A simple site to describe how to log issues",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hondocode/how-to-properly-log-an-issue.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hondocode/how-to-properly-log-an-issue/issues"
+  },
+  "homepage": "https://github.com/hondocode/how-to-properly-log-an-issue#readme"
+}
